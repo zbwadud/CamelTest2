@@ -39,6 +39,7 @@ public class MyRouteBuilder extends RouteBuilder {
         System.out.println("testing build job....");
         System.out.println("testing build job....");
         System.out.println("testing build job....");
+        System.out.println("testing build job....");
         Main.main(args);
     }
 
